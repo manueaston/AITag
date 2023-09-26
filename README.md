@@ -33,3 +33,8 @@ Design and implement a game that includes NPC behaviour that would enhance the g
 2. Open Unreal Engine Project in Unreal Editor 5.1
 
 <h2>Credits</h2>
+Sounds created using ChipTone under CC0 license 
+https://sfbgames.itch.io/chiptone
+
+Animations from Ramsterz Animations
+https://www.ramsterzanimations.com/store-buy/p/epic-megajam-2022-free-anims
